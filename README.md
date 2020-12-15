@@ -7,4 +7,7 @@
 
 ## please install these 
 ## for the multiple image stiching please note that the images should be in order either left to right or right to left
+
+## the data-set that I used
+can be found here https://www.kaggle.com/deepzsenu/images-data with kaggle notebook
 # working on multiple image stiching with any order  in which you have to just input i=the images and the algorithms will adjust the images by it's self 
