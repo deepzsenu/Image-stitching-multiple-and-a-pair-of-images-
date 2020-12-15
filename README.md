@@ -2,7 +2,7 @@
 ### in this project I used multiple image stiching and a pair of images you can simply go though my notebook
 ## please update opencv version
 - pip install opencv-python==3.4.2.17
-- pip install opencv-contrib-pythn==3.4.2.17
+- pip install opencv-contrib-python==3.4.2.17
 - pip install imutils
 
 ## please install these 
